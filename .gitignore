@@ -1,0 +1,14 @@
+# Katalogi kompilacji .NET
+bin/
+obj/
+
+# Pliki IDE i ustawienia lokalne
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.swp
+.DS_Store
+Thumbs.db
+
